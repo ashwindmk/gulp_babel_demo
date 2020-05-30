@@ -15,7 +15,7 @@ npm install gulp --save-dev
 
 **2. Install Gulp-Babel**
 ```
-npm install @babel/core @babel/preset-env --save-dev
+npm install gulp-babel @babel/core @babel/preset-env --save-dev
 ```
 
 **3. Set Babel**
